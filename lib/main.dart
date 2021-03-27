@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:leo_coin/ui/screens/home.dart';
-import 'package:leo_coin/ui/screens/splash.dart';
+import 'package:cryptocurrency_signin_signup/ui/screens/splash.dart';
 
 void main() {
   runApp(MyApp());

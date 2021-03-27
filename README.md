@@ -1,4 +1,4 @@
-# crypto_sign_in_sign_up
+# cryptocurrency_signin_signup
 
 A new Flutter application.
 

@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:leo_coin/ui/screens/home.dart';
+import 'package:cryptocurrency_signin_signup/ui/screens/home.dart';
 import 'package:splashscreen/splashscreen.dart';
 
 class Splash extends StatelessWidget {

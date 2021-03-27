@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:leo_coin/ui/screens/login/sign_in.dart';
-import 'package:leo_coin/ui/screens/login/sign_up.dart';
-import 'package:leo_coin/ui/widgets/input_text_field_login.dart';
+import 'package:cryptocurrency_signin_signup/ui/screens/login/sign_in.dart';
+import 'package:cryptocurrency_signin_signup/ui/screens/login/sign_up.dart';
+
 
 class HomeScreen extends StatefulWidget {
   @override

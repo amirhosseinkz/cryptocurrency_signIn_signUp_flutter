@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:leo_coin/ui/widgets/input_text_field_login.dart';
+import 'package:cryptocurrency_signin_signup/ui/widgets/input_text_field_login.dart';
 
 class SignUp extends StatefulWidget {
   @override
